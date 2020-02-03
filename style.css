@@ -8,12 +8,12 @@ navbar-brand {
 
 body {
 	background-image: linear-gradient(rgba(255, 255, 255, 0.8), rgba(0, 255, 255, 0.8)), url("assets/Dolphins_Laundromat_Logo.png");
-	background-size: auto;
+	background-size: contain;
  	background-position: center center;
  	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
-/*	background-size: cover;
-	background-position: center center;
-	background-repeat: no-repeat;
-	background-attachment: fixed;*/
+/*background-image:url('../images/bg.png');
+background-repeat:no-repeat;
+background-size:contain;
+background-position:center;*/
